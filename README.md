@@ -48,3 +48,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 #### Titulo 4
 ##### Titulo 5
 ###### Titulo 6
+
+Mi nombre es **Christian J. Amaguaña** y me gusta la ~~computacion~~
