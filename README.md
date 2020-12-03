@@ -50,3 +50,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ###### Titulo 6
 
 Mi nombre es **Christian J. Amaguaña** y me gusta la ~~computacion~~
+
+## Listas Ordenadas
+
+Las listas ordenadas son las siguientes:
+
+1.  Lunes
+1.  Martes
+1.  Miercoles 
+
+Las listas  no ordenadas son las siguientes:
+
+
+-  Peras
+-  Manzana
+-  Sandia 
