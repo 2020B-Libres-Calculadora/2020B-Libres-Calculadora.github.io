@@ -105,3 +105,16 @@ funcion comer(){
 | ---     |   ---    |
 |Christian|Amaguaña  |
 |         |          |
+
+
+## Quotes
+
+Cita
+
+> muy largooooooooooooooooooooooooooooooo
+> ahhhhhhhhhhhhhhh
+
+> uno
+> dos
+> tres
+> **Chris** 
