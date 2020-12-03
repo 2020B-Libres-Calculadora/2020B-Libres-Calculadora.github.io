@@ -75,3 +75,27 @@ Quiero ir a [Google](www.google.com.ec "Me gustan las papayas") y se mostrara un
 ## Imagen
 
 ![Carro](https://i48.servimg.com/u/f48/14/58/34/40/tumblr10.jpg "Mnesaje")
+
+
+## Codigo
+
+En `Python` se puede crear variables vacias
+
+```python
+print ("Hola Mundo")
+
+```
+
+```kotlin
+val nombre = "Chris"
+
+```
+```javascript
+funcion comer(){
+}
+
+```
+
+```xml
+<hola fonetica="3">como estas</hola>
+```
