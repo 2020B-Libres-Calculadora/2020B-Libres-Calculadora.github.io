@@ -99,3 +99,9 @@ funcion comer(){
 ```xml
 <hola fonetica="3">como estas</hola>
 ```
+## Tablas
+
+| Nombre  | Apellido |
+| ---     |   ---    |
+|Christian|Amaguaña  |
+|         |          |
