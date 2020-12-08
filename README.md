@@ -1,9 +1,12 @@
 # Bienvenidos a Poli Calculadora
 
+
 ### Objetivo de Nuestro Proyecto
 
+Brindar a la comunidad una calculadora con una implementación 
+amigable con el usuario para que sea manejable por cualquier usuario.
 
-
+------------
 
 #### Subscribete Para Conocer Más de Nuestro Proyecto
 
